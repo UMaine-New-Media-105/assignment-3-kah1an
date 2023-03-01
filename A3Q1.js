@@ -37,7 +37,10 @@ function draw() {
   
   
   // ADD CATCHER
-  addDachshund(180, 300, 0.75);
+  push();
+  translate(-20, 0);
+  addDachshund(mouseX, 300, 0.75);
+  pop();
   
   // ADD SEED
   // Add the falling shape, either directly here or via a function.
