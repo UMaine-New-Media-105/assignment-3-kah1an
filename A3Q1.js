@@ -2,7 +2,8 @@
 Kahlan Newsom
 NMD 105
 A3Q1: Draw the Catcher
-I created a function for a dachshund sprite that I made as well as one for a doghouse I created for the background and added a green rect for the grass. I plan to add some clouds and maybe a sun but we'll say. May look to busy when I add the item that's gonna fall down. 
+I created a function for a dachshund sprite that I made as well as one for a doghouse I created for the background and added a green rect for the grass. 
+I plan to add some clouds and maybe a sun but we'll say. May look too busy when I add the item that's gonna fall down. 
 */
 
 // You can start from this outline to write your "Hungry Bird" game
